@@ -1,0 +1,84 @@
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+
+.input-box{
+    border: 1   ;    
+    margin-top: 3%;
+    height: 40px;
+    font-size: 15px;
+    
+}
+
+
+
+.price-quantity{
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
+.pre-style{
+    text-align: left;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.submit-box{
+    display: inline-block;
+    border-radius: 12px;
+    background-color: #4CAF50; /* Green */
+    border: 1;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    object-position: center;
+    margin-right: 1%;
+}
+
+
+
+
+img.satu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: auto;
+    
+}
+
+
+
+table, td, th {  
+    border: 1px double darkgrey;
+    text-align: left;
+}
+  
+table {
+    /* border-collapse: collapse; 
+    width: 90%; */
+    table-layout: auto;
+    width: 70%;
+    
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    flex-wrap: wrap;
+  } -->
+

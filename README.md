@@ -1,2 +1,1 @@
-# EL-OUTLET-STORE
-tugas final project
+# hacktivate_fashion_store
